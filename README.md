@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/6fc489df24a08a623a55a.mp4" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/a75990771bf6cb49f2a0f.jpg" alt="nz" width="350"/>
 </p>
 
 ## Queen-Elina
