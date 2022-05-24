@@ -4,7 +4,7 @@
 
 ## Queen-Elina
 
-> Automated Multi Device whatsapp bot created by [Saduwa](github.com/Dark-Killer1)
+> Automated Multi Device whatsapp bot created by [Sandun Mihiranga](github.com/Dark-Killer1)
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
