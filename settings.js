@@ -21,10 +21,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94761905764']
-global.premium = ['94761905764']
-global.ownernomer = '94767003520'
-global.ownername = 'Sandun Mihiranga'
+global.owner = ['94773109531']
+global.premium = ['94773109531']
+global.ownernomer = '94773109531'
+global.ownername = 'Ashan Navodya'
 global.botname = 'Queen Elina'
 global.footer = 'Saduwa Bot Inc.'
 global.ig = 'https://github.com/Sandun-Mihiranga2'
